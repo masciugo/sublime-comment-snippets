@@ -20,6 +20,9 @@ TODO
 
     git clone git://github.com/masciugo/sublime-comment-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\User\sublime-comment-snippets
 
+## Usage
+
+![gif](usage.gif)
 
 ## Snippets
 
