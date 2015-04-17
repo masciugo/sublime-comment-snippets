@@ -1,11 +1,10 @@
 <snippet>
   <content>
     <![CDATA[
-// Note ${1:(${2:initials})}: ${3:description}.
+# NOTE${4: (${1:author}${3: on ${2:date}})}: ${5:description}.
 ]]>
   </content>
-  <tabTrigger>note</tabTrigger>
+  <tabTrigger>comn</tabTrigger>
   <description>Note Comment</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.ruby</scope>
 </snippet>

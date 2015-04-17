@@ -1,7 +1,7 @@
 <snippet>
   <content>
     <![CDATA[
-# TODO${4: (${1:initials}${3: on ${2:date}})}: ${5:description}.
+# TODO${4: (${1:author}${3: on ${2:date}})}: ${5:description}.
 ]]>
   </content>
   <tabTrigger>comt</tabTrigger>
