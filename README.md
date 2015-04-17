@@ -29,6 +29,10 @@ TODO
 * `comb` - Nicely formatted block comment
 * `comd` - Nice divider comment
 
+## Suggestions
+
+* [this](https://gist.github.com/uberbuilder/4657558) to quickly add date
+* [this](https://github.com/jonathandelgado/SublimeTodoReview) to review notes
 
 ## Acknowledgment
 [the project](https://github.com/ekryski/sublime-comment-snippets) I forked
