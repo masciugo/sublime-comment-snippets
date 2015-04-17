@@ -2,8 +2,7 @@
   <content>
     <![CDATA[
 # FIXME${4: (${1:initials}${3: on ${2:date}})}: ${5:description}.
-${0}
-    ]]>
+]]>
   </content>
   <tabTrigger>comf</tabTrigger>
   <description>FIXME Comment</description>

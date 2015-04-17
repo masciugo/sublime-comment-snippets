@@ -2,8 +2,7 @@
   <content>
     <![CDATA[
 # TODO${4: (${1:initials}${3: on ${2:date}})}: ${5:description}.
-${0}
-    ]]>
+]]>
   </content>
   <tabTrigger>comt</tabTrigger>
   <description>TODO Comment</description>
