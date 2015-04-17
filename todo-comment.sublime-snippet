@@ -1,12 +1,11 @@
 <snippet>
   <content>
     <![CDATA[
-// TODO ${1:(${2:initials})}: ${3:description}.
+# TODO${4: (${1:initials}${3: on ${2:date}})}: ${5:description}.
 ${0}
     ]]>
   </content>
-  <tabTrigger>todo</tabTrigger>
+  <tabTrigger>comt</tabTrigger>
   <description>TODO Comment</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <!-- <scope>source.python</scope> -->
+  <scope>source.ruby</scope>
 </snippet>
